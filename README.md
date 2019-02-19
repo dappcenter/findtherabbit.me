@@ -1,4 +1,4 @@
-# findtherabbit.me
+# [findtherabbit.me](https://findtherabbit.me)
 x2 your coins
 
 # How to play
