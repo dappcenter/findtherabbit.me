@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "sounds/pendingTx.mp3"
   },
   {
-    "revision": "5e3792c527c5bbed79e881dac65f8c0f",
-    "url": "sounds/hat.mp3"
-  },
-  {
     "revision": "a542ee9ebb72e13c9e0ecb29043071ad",
     "url": "sounds/greeting.mp3"
+  },
+  {
+    "revision": "5e3792c527c5bbed79e881dac65f8c0f",
+    "url": "sounds/hat.mp3"
   },
   {
     "revision": "00ea97a8c54d5b992641d27e5c8df1cc",
@@ -88,16 +88,16 @@ self.__precacheManifest = [
     "url": "js/chunk-vendors.9d35f82b.js"
   },
   {
-    "revision": "80a9fd552740095605a8b7fa5873b6c1",
-    "url": "fonts/Circe_Regular.80a9fd55.woff2"
+    "revision": "c0b2c99a88238e29090b293516303651",
+    "url": "fonts/Circe_Bold.c0b2c99a.woff2"
   },
   {
-    "revision": "c65f11af387d17df18a44cc572619b74",
+    "revision": "15553c131d179a6d831b6eca99455f00",
     "url": "index.html"
   },
   {
-    "revision": "c0b2c99a88238e29090b293516303651",
-    "url": "fonts/Circe_Bold.c0b2c99a.woff2"
+    "revision": "e5750578b5388eb6d4537afe742364e0",
+    "url": "fonts/Circe_Bold.e5750578.woff"
   },
   {
     "revision": "a6dada1fda9587579b3631f0be574312",
@@ -120,12 +120,12 @@ self.__precacheManifest = [
     "url": "img/bg_podium.cc4e512d.png"
   },
   {
-    "revision": "e87d6fc2242587f9d137b48f9cde191f",
-    "url": "fonts/Circe_Regular.e87d6fc2.woff"
+    "revision": "80a9fd552740095605a8b7fa5873b6c1",
+    "url": "fonts/Circe_Regular.80a9fd55.woff2"
   },
   {
-    "revision": "e5750578b5388eb6d4537afe742364e0",
-    "url": "fonts/Circe_Bold.e5750578.woff"
+    "revision": "e87d6fc2242587f9d137b48f9cde191f",
+    "url": "fonts/Circe_Regular.e87d6fc2.woff"
   },
   {
     "revision": "330a865b8625d35a314f37c2c775e6f3",
@@ -136,12 +136,12 @@ self.__precacheManifest = [
     "url": "img/gb.4f1b7af5.svg"
   },
   {
-    "revision": "0138f85cb1b843bf08c13ec74fa136b0",
-    "url": "fonts/BerlinSansFBDemiBold.0138f85c.woff2"
-  },
-  {
     "revision": "7ff06a38c3c03ebc7e87ec40eb363741",
     "url": "fonts/BerlinSansFBDemiBold.7ff06a38.woff"
+  },
+  {
+    "revision": "0138f85cb1b843bf08c13ec74fa136b0",
+    "url": "fonts/BerlinSansFBDemiBold.0138f85c.woff2"
   },
   {
     "revision": "cc1b41b0e9485796cebb98fb04a7c10e",
