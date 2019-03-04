@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "sounds/won.mp3"
   },
   {
-    "revision": "d4d5a8bd6b1fe14a6ed8bb6c6fc6f895",
+    "revision": "c5f5fef3c779bdf2cd3247ded7398782",
     "url": "index.html"
   },
   {
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "sounds/callDispute.mp3"
   },
   {
-    "revision": "da4451eb5b64a10554464673b9203e96",
-    "url": "sounds/silence.mp3"
-  },
-  {
     "revision": "0a2b09a02432eaae66f317df34b3cd23",
     "url": "sounds/pendingTx.mp3"
+  },
+  {
+    "revision": "da4451eb5b64a10554464673b9203e96",
+    "url": "sounds/silence.mp3"
   },
   {
     "revision": "5e3792c527c5bbed79e881dac65f8c0f",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "sounds/greeting.mp3"
   },
   {
-    "revision": "00ea97a8c54d5b992641d27e5c8df1cc",
-    "url": "safari-pinned-tab.svg"
-  },
-  {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "robots.txt"
+  },
+  {
+    "revision": "00ea97a8c54d5b992641d27e5c8df1cc",
+    "url": "safari-pinned-tab.svg"
   },
   {
     "revision": "4964e19aed439272faf9",
@@ -112,12 +112,12 @@ self.__precacheManifest = [
     "url": "img/bg_podium.cc4e512d.png"
   },
   {
-    "revision": "80a9fd552740095605a8b7fa5873b6c1",
-    "url": "fonts/Circe_Regular.80a9fd55.woff2"
-  },
-  {
     "revision": "e87d6fc2242587f9d137b48f9cde191f",
     "url": "fonts/Circe_Regular.e87d6fc2.woff"
+  },
+  {
+    "revision": "80a9fd552740095605a8b7fa5873b6c1",
+    "url": "fonts/Circe_Regular.80a9fd55.woff2"
   },
   {
     "revision": "e5750578b5388eb6d4537afe742364e0",
@@ -144,12 +144,12 @@ self.__precacheManifest = [
     "url": "img/de.3e726c2b.svg"
   },
   {
-    "revision": "02c229de4d98ea1668384d2ed4cc558d",
-    "url": "img/cn.02c229de.svg"
-  },
-  {
     "revision": "0cacf46e6f473fa88781120f370d6107",
     "url": "img/ru.0cacf46e.svg"
+  },
+  {
+    "revision": "02c229de4d98ea1668384d2ed4cc558d",
+    "url": "img/cn.02c229de.svg"
   },
   {
     "revision": "4f1b7af5c0bae6aae85c3e7ba9401a85",
