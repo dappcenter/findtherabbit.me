@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "sounds/won.mp3"
   },
   {
-    "revision": "bc6d8a4242cc3baa941243b8a3abb3e8",
+    "revision": "36fa9a433c2b53f2332413e65193a22c",
     "url": "index.html"
   },
   {
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "js/chunk-vendors.9d35f82b.js"
   },
   {
-    "revision": "e5750578b5388eb6d4537afe742364e0",
-    "url": "fonts/Circe_Bold.e5750578.woff"
+    "revision": "c0b2c99a88238e29090b293516303651",
+    "url": "fonts/Circe_Bold.c0b2c99a.woff2"
   },
   {
     "revision": "2f3821b4874e561a54d5d0fcafdbf7df",
@@ -120,8 +120,8 @@ self.__precacheManifest = [
     "url": "fonts/Circe_Regular.80a9fd55.woff2"
   },
   {
-    "revision": "c0b2c99a88238e29090b293516303651",
-    "url": "fonts/Circe_Bold.c0b2c99a.woff2"
+    "revision": "e5750578b5388eb6d4537afe742364e0",
+    "url": "fonts/Circe_Bold.e5750578.woff"
   },
   {
     "revision": "330a865b8625d35a314f37c2c775e6f3",
@@ -140,16 +140,16 @@ self.__precacheManifest = [
     "url": "img/es.cc1b41b0.svg"
   },
   {
-    "revision": "3e726c2b6a59e6e4543c0a1534d93796",
-    "url": "img/de.3e726c2b.svg"
-  },
-  {
     "revision": "02c229de4d98ea1668384d2ed4cc558d",
     "url": "img/cn.02c229de.svg"
   },
   {
     "revision": "0cacf46e6f473fa88781120f370d6107",
     "url": "img/ru.0cacf46e.svg"
+  },
+  {
+    "revision": "3e726c2b6a59e6e4543c0a1534d93796",
+    "url": "img/de.3e726c2b.svg"
   },
   {
     "revision": "4f1b7af5c0bae6aae85c3e7ba9401a85",
