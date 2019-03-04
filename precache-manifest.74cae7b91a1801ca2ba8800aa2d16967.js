@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "2f3821b4874e561a54d5d0fcafdbf7df",
-    "url": "img/shadow.2f3821b4.png"
+    "revision": "6f0a76321d30f3c8120915e57f7bd77e",
+    "url": "fonts/element-icons.6f0a7632.ttf"
   },
   {
     "revision": "1ddd6ed56563416956cdef696a51a812",
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "sounds/won.mp3"
   },
   {
-    "revision": "7ac1c4961b01cfeec990b33290fcb1dd",
-    "url": "favicon-16x16.png"
+    "revision": "15553c131d179a6d831b6eca99455f00",
+    "url": "index.html"
   },
   {
     "revision": "dc47bdd2ff1338489e9d",
@@ -68,16 +68,16 @@ self.__precacheManifest = [
     "url": "sounds/pendingTx.mp3"
   },
   {
-    "revision": "a542ee9ebb72e13c9e0ecb29043071ad",
-    "url": "sounds/greeting.mp3"
-  },
-  {
     "revision": "5e3792c527c5bbed79e881dac65f8c0f",
     "url": "sounds/hat.mp3"
   },
   {
     "revision": "00ea97a8c54d5b992641d27e5c8df1cc",
     "url": "safari-pinned-tab.svg"
+  },
+  {
+    "revision": "a542ee9ebb72e13c9e0ecb29043071ad",
+    "url": "sounds/greeting.mp3"
   },
   {
     "revision": "5ae72b9c934e98bb7eac14d38bfa1b94",
@@ -92,24 +92,16 @@ self.__precacheManifest = [
     "url": "fonts/Circe_Bold.c0b2c99a.woff2"
   },
   {
-    "revision": "15553c131d179a6d831b6eca99455f00",
-    "url": "index.html"
+    "revision": "2f3821b4874e561a54d5d0fcafdbf7df",
+    "url": "img/shadow.2f3821b4.png"
   },
   {
-    "revision": "e5750578b5388eb6d4537afe742364e0",
-    "url": "fonts/Circe_Bold.e5750578.woff"
+    "revision": "7ff06a38c3c03ebc7e87ec40eb363741",
+    "url": "fonts/BerlinSansFBDemiBold.7ff06a38.woff"
   },
   {
-    "revision": "a6dada1fda9587579b3631f0be574312",
-    "url": "favicon-32x32.png"
-  },
-  {
-    "revision": "6f0a76321d30f3c8120915e57f7bd77e",
-    "url": "fonts/element-icons.6f0a7632.ttf"
-  },
-  {
-    "revision": "2fad952a20fbbcfd1bf2ebb210dccf7a",
-    "url": "fonts/element-icons.2fad952a.woff"
+    "revision": "4964e19aed439272faf9",
+    "url": "css/chunk-vendors.88bdeba2.css"
   },
   {
     "revision": "0361497e2c5bebc9c9889e64fa8f4f18",
@@ -120,24 +112,24 @@ self.__precacheManifest = [
     "url": "img/bg_podium.cc4e512d.png"
   },
   {
+    "revision": "e87d6fc2242587f9d137b48f9cde191f",
+    "url": "fonts/Circe_Regular.e87d6fc2.woff"
+  },
+  {
     "revision": "80a9fd552740095605a8b7fa5873b6c1",
     "url": "fonts/Circe_Regular.80a9fd55.woff2"
   },
   {
-    "revision": "e87d6fc2242587f9d137b48f9cde191f",
-    "url": "fonts/Circe_Regular.e87d6fc2.woff"
+    "revision": "e5750578b5388eb6d4537afe742364e0",
+    "url": "fonts/Circe_Bold.e5750578.woff"
   },
   {
     "revision": "330a865b8625d35a314f37c2c775e6f3",
     "url": "img/rabbit-shadow.330a865b.png"
   },
   {
-    "revision": "4f1b7af5c0bae6aae85c3e7ba9401a85",
-    "url": "img/gb.4f1b7af5.svg"
-  },
-  {
-    "revision": "7ff06a38c3c03ebc7e87ec40eb363741",
-    "url": "fonts/BerlinSansFBDemiBold.7ff06a38.woff"
+    "revision": "2fad952a20fbbcfd1bf2ebb210dccf7a",
+    "url": "fonts/element-icons.2fad952a.woff"
   },
   {
     "revision": "0138f85cb1b843bf08c13ec74fa136b0",
@@ -160,8 +152,8 @@ self.__precacheManifest = [
     "url": "img/ru.0cacf46e.svg"
   },
   {
-    "revision": "4964e19aed439272faf9",
-    "url": "css/chunk-vendors.88bdeba2.css"
+    "revision": "4f1b7af5c0bae6aae85c3e7ba9401a85",
+    "url": "img/gb.4f1b7af5.svg"
   },
   {
     "revision": "79a3f54f11a6f279ce3e",
