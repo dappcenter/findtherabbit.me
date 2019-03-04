@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "sounds/won.mp3"
   },
   {
-    "revision": "ff2a18e22bb0ea08221a09c8708495c8",
-    "url": "CNAME"
+    "revision": "7ac1c4961b01cfeec990b33290fcb1dd",
+    "url": "favicon-16x16.png"
   },
   {
     "revision": "dc47bdd2ff1338489e9d",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "sounds/callDispute.mp3"
   },
   {
-    "revision": "0a2b09a02432eaae66f317df34b3cd23",
-    "url": "sounds/pendingTx.mp3"
-  },
-  {
     "revision": "da4451eb5b64a10554464673b9203e96",
     "url": "sounds/silence.mp3"
+  },
+  {
+    "revision": "0a2b09a02432eaae66f317df34b3cd23",
+    "url": "sounds/pendingTx.mp3"
   },
   {
     "revision": "5e3792c527c5bbed79e881dac65f8c0f",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "js/chunk-vendors.9d35f82b.js"
   },
   {
-    "revision": "e5750578b5388eb6d4537afe742364e0",
-    "url": "fonts/Circe_Bold.e5750578.woff"
+    "revision": "80a9fd552740095605a8b7fa5873b6c1",
+    "url": "fonts/Circe_Regular.80a9fd55.woff2"
   },
   {
     "revision": "c65f11af387d17df18a44cc572619b74",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "fonts/Circe_Bold.c0b2c99a.woff2"
   },
   {
-    "revision": "7ac1c4961b01cfeec990b33290fcb1dd",
-    "url": "favicon-16x16.png"
+    "revision": "a6dada1fda9587579b3631f0be574312",
+    "url": "favicon-32x32.png"
   },
   {
     "revision": "6f0a76321d30f3c8120915e57f7bd77e",
@@ -124,44 +124,40 @@ self.__precacheManifest = [
     "url": "fonts/Circe_Regular.e87d6fc2.woff"
   },
   {
-    "revision": "80a9fd552740095605a8b7fa5873b6c1",
-    "url": "fonts/Circe_Regular.80a9fd55.woff2"
+    "revision": "e5750578b5388eb6d4537afe742364e0",
+    "url": "fonts/Circe_Bold.e5750578.woff"
   },
   {
     "revision": "330a865b8625d35a314f37c2c775e6f3",
     "url": "img/rabbit-shadow.330a865b.png"
   },
   {
-    "revision": "a6dada1fda9587579b3631f0be574312",
-    "url": "favicon-32x32.png"
-  },
-  {
-    "revision": "7ff06a38c3c03ebc7e87ec40eb363741",
-    "url": "fonts/BerlinSansFBDemiBold.7ff06a38.woff"
+    "revision": "4f1b7af5c0bae6aae85c3e7ba9401a85",
+    "url": "img/gb.4f1b7af5.svg"
   },
   {
     "revision": "0138f85cb1b843bf08c13ec74fa136b0",
     "url": "fonts/BerlinSansFBDemiBold.0138f85c.woff2"
   },
   {
-    "revision": "cc1b41b0e9485796cebb98fb04a7c10e",
-    "url": "img/es.cc1b41b0.svg"
+    "revision": "7ff06a38c3c03ebc7e87ec40eb363741",
+    "url": "fonts/BerlinSansFBDemiBold.7ff06a38.woff"
   },
   {
-    "revision": "02c229de4d98ea1668384d2ed4cc558d",
-    "url": "img/cn.02c229de.svg"
+    "revision": "cc1b41b0e9485796cebb98fb04a7c10e",
+    "url": "img/es.cc1b41b0.svg"
   },
   {
     "revision": "3e726c2b6a59e6e4543c0a1534d93796",
     "url": "img/de.3e726c2b.svg"
   },
   {
-    "revision": "0cacf46e6f473fa88781120f370d6107",
-    "url": "img/ru.0cacf46e.svg"
+    "revision": "02c229de4d98ea1668384d2ed4cc558d",
+    "url": "img/cn.02c229de.svg"
   },
   {
-    "revision": "4f1b7af5c0bae6aae85c3e7ba9401a85",
-    "url": "img/gb.4f1b7af5.svg"
+    "revision": "0cacf46e6f473fa88781120f370d6107",
+    "url": "img/ru.0cacf46e.svg"
   },
   {
     "revision": "4964e19aed439272faf9",
@@ -170,5 +166,9 @@ self.__precacheManifest = [
   {
     "revision": "79a3f54f11a6f279ce3e",
     "url": "css/app.02db87dd.css"
+  },
+  {
+    "revision": "ff2a18e22bb0ea08221a09c8708495c8",
+    "url": "CNAME"
   }
 ];
