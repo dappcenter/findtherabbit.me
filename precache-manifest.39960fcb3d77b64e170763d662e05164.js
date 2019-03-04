@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "sounds/callDispute.mp3"
   },
   {
-    "revision": "da4451eb5b64a10554464673b9203e96",
-    "url": "sounds/silence.mp3"
-  },
-  {
     "revision": "0a2b09a02432eaae66f317df34b3cd23",
     "url": "sounds/pendingTx.mp3"
+  },
+  {
+    "revision": "da4451eb5b64a10554464673b9203e96",
+    "url": "sounds/silence.mp3"
   },
   {
     "revision": "5e3792c527c5bbed79e881dac65f8c0f",
@@ -88,11 +88,11 @@ self.__precacheManifest = [
     "url": "js/chunk-vendors.9d35f82b.js"
   },
   {
-    "revision": "e87d6fc2242587f9d137b48f9cde191f",
-    "url": "fonts/Circe_Regular.e87d6fc2.woff"
+    "revision": "e5750578b5388eb6d4537afe742364e0",
+    "url": "fonts/Circe_Bold.e5750578.woff"
   },
   {
-    "revision": "f392a25901395f5ac697535b721016c9",
+    "revision": "c65f11af387d17df18a44cc572619b74",
     "url": "index.html"
   },
   {
@@ -120,8 +120,8 @@ self.__precacheManifest = [
     "url": "img/bg_podium.cc4e512d.png"
   },
   {
-    "revision": "e5750578b5388eb6d4537afe742364e0",
-    "url": "fonts/Circe_Bold.e5750578.woff"
+    "revision": "e87d6fc2242587f9d137b48f9cde191f",
+    "url": "fonts/Circe_Regular.e87d6fc2.woff"
   },
   {
     "revision": "80a9fd552740095605a8b7fa5873b6c1",
@@ -148,12 +148,12 @@ self.__precacheManifest = [
     "url": "img/es.cc1b41b0.svg"
   },
   {
-    "revision": "3e726c2b6a59e6e4543c0a1534d93796",
-    "url": "img/de.3e726c2b.svg"
-  },
-  {
     "revision": "02c229de4d98ea1668384d2ed4cc558d",
     "url": "img/cn.02c229de.svg"
+  },
+  {
+    "revision": "3e726c2b6a59e6e4543c0a1534d93796",
+    "url": "img/de.3e726c2b.svg"
   },
   {
     "revision": "0cacf46e6f473fa88781120f370d6107",
