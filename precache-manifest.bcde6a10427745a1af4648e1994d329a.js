@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "sounds/won.mp3"
   },
   {
-    "revision": "15553c131d179a6d831b6eca99455f00",
+    "revision": "bc6d8a4242cc3baa941243b8a3abb3e8",
     "url": "index.html"
   },
   {
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "sounds/hat.mp3"
   },
   {
-    "revision": "00ea97a8c54d5b992641d27e5c8df1cc",
-    "url": "safari-pinned-tab.svg"
-  },
-  {
     "revision": "a542ee9ebb72e13c9e0ecb29043071ad",
     "url": "sounds/greeting.mp3"
+  },
+  {
+    "revision": "00ea97a8c54d5b992641d27e5c8df1cc",
+    "url": "safari-pinned-tab.svg"
   },
   {
     "revision": "5ae72b9c934e98bb7eac14d38bfa1b94",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "js/chunk-vendors.9d35f82b.js"
   },
   {
-    "revision": "c0b2c99a88238e29090b293516303651",
-    "url": "fonts/Circe_Bold.c0b2c99a.woff2"
+    "revision": "e5750578b5388eb6d4537afe742364e0",
+    "url": "fonts/Circe_Bold.e5750578.woff"
   },
   {
     "revision": "2f3821b4874e561a54d5d0fcafdbf7df",
@@ -120,8 +120,8 @@ self.__precacheManifest = [
     "url": "fonts/Circe_Regular.80a9fd55.woff2"
   },
   {
-    "revision": "e5750578b5388eb6d4537afe742364e0",
-    "url": "fonts/Circe_Bold.e5750578.woff"
+    "revision": "c0b2c99a88238e29090b293516303651",
+    "url": "fonts/Circe_Bold.c0b2c99a.woff2"
   },
   {
     "revision": "330a865b8625d35a314f37c2c775e6f3",
