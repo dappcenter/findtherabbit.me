@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "sounds/won.mp3"
   },
   {
-    "revision": "fc6621f766db5c8498a9cf941c83b3d4",
+    "revision": "121cc83a68c11202775b6d775b5e1691",
     "url": "index.html"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "sounds/accept.mp3"
   },
   {
-    "revision": "86770696e7fc72b9b19b",
-    "url": "js/app.1d4a6594.js"
+    "revision": "fec656338e0f54cf58ac",
+    "url": "js/app.6a3c4641.js"
   },
   {
     "revision": "a82eb224d36c122712c83252258e135d",
@@ -96,8 +96,8 @@ self.__precacheManifest = [
     "url": "img/shadow.2f3821b4.png"
   },
   {
-    "revision": "0138f85cb1b843bf08c13ec74fa136b0",
-    "url": "fonts/BerlinSansFBDemiBold.0138f85c.woff2"
+    "revision": "7ff06a38c3c03ebc7e87ec40eb363741",
+    "url": "fonts/BerlinSansFBDemiBold.7ff06a38.woff"
   },
   {
     "revision": "81f395f7c24d1fccca8a",
@@ -112,12 +112,12 @@ self.__precacheManifest = [
     "url": "img/bg_podium.cc4e512d.png"
   },
   {
-    "revision": "e87d6fc2242587f9d137b48f9cde191f",
-    "url": "fonts/Circe_Regular.e87d6fc2.woff"
-  },
-  {
     "revision": "80a9fd552740095605a8b7fa5873b6c1",
     "url": "fonts/Circe_Regular.80a9fd55.woff2"
+  },
+  {
+    "revision": "e87d6fc2242587f9d137b48f9cde191f",
+    "url": "fonts/Circe_Regular.e87d6fc2.woff"
   },
   {
     "revision": "e5750578b5388eb6d4537afe742364e0",
@@ -132,31 +132,31 @@ self.__precacheManifest = [
     "url": "fonts/element-icons.2fad952a.woff"
   },
   {
-    "revision": "7ff06a38c3c03ebc7e87ec40eb363741",
-    "url": "fonts/BerlinSansFBDemiBold.7ff06a38.woff"
+    "revision": "0138f85cb1b843bf08c13ec74fa136b0",
+    "url": "fonts/BerlinSansFBDemiBold.0138f85c.woff2"
   },
   {
     "revision": "cc1b41b0e9485796cebb98fb04a7c10e",
     "url": "img/es.cc1b41b0.svg"
   },
   {
-    "revision": "02c229de4d98ea1668384d2ed4cc558d",
-    "url": "img/cn.02c229de.svg"
+    "revision": "3e726c2b6a59e6e4543c0a1534d93796",
+    "url": "img/de.3e726c2b.svg"
   },
   {
-    "revision": "4f1b7af5c0bae6aae85c3e7ba9401a85",
-    "url": "img/gb.4f1b7af5.svg"
+    "revision": "02c229de4d98ea1668384d2ed4cc558d",
+    "url": "img/cn.02c229de.svg"
   },
   {
     "revision": "0cacf46e6f473fa88781120f370d6107",
     "url": "img/ru.0cacf46e.svg"
   },
   {
-    "revision": "3e726c2b6a59e6e4543c0a1534d93796",
-    "url": "img/de.3e726c2b.svg"
+    "revision": "4f1b7af5c0bae6aae85c3e7ba9401a85",
+    "url": "img/gb.4f1b7af5.svg"
   },
   {
-    "revision": "86770696e7fc72b9b19b",
+    "revision": "fec656338e0f54cf58ac",
     "url": "css/app.02db87dd.css"
   },
   {

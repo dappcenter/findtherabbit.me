@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.0a7c53feb2cae11c979afd88004dc29b.js"
+  "precache-manifest.eed2839c2528b6de5288ff4799fe8e97.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hello-world"});
