@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "sounds/won.mp3"
   },
   {
-    "revision": "121cc83a68c11202775b6d775b5e1691",
+    "revision": "c9a2d52dc4d7f22c3dcc6a68c0b311f2",
     "url": "index.html"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "sounds/accept.mp3"
   },
   {
-    "revision": "fec656338e0f54cf58ac",
-    "url": "js/app.6a3c4641.js"
+    "revision": "88d2cba862ff7eb5aae5",
+    "url": "js/app.d6adfa77.js"
   },
   {
     "revision": "a82eb224d36c122712c83252258e135d",
@@ -112,12 +112,12 @@ self.__precacheManifest = [
     "url": "img/bg_podium.cc4e512d.png"
   },
   {
-    "revision": "80a9fd552740095605a8b7fa5873b6c1",
-    "url": "fonts/Circe_Regular.80a9fd55.woff2"
-  },
-  {
     "revision": "e87d6fc2242587f9d137b48f9cde191f",
     "url": "fonts/Circe_Regular.e87d6fc2.woff"
+  },
+  {
+    "revision": "80a9fd552740095605a8b7fa5873b6c1",
+    "url": "fonts/Circe_Regular.80a9fd55.woff2"
   },
   {
     "revision": "e5750578b5388eb6d4537afe742364e0",
@@ -156,7 +156,7 @@ self.__precacheManifest = [
     "url": "img/gb.4f1b7af5.svg"
   },
   {
-    "revision": "fec656338e0f54cf58ac",
+    "revision": "88d2cba862ff7eb5aae5",
     "url": "css/app.02db87dd.css"
   },
   {
