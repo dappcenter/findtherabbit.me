@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "6f0a76321d30f3c8120915e57f7bd77e",
-    "url": "fonts/element-icons.6f0a7632.ttf"
+    "revision": "2fad952a20fbbcfd1bf2ebb210dccf7a",
+    "url": "fonts/element-icons.2fad952a.woff"
   },
   {
     "revision": "1ddd6ed56563416956cdef696a51a812",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "img/shadow.2f3821b4.png"
   },
   {
-    "revision": "dc47bdd2ff1338489e9d",
-    "url": "js/about.b24b22be.js"
+    "revision": "a45675955d0e91a74b6b",
+    "url": "js/about.96aca8cd.js"
   },
   {
     "revision": "065276fe28cfcb612aead6937075b4c5",
@@ -32,6 +32,10 @@ self.__precacheManifest = [
     "url": "sounds/dispute.mp3"
   },
   {
+    "revision": "053eefe72e53c683112a",
+    "url": "js/app.01f0a26b.js"
+  },
+  {
     "revision": "9d51eed2e5e254c9ec43e23763605d6c",
     "url": "sounds/reject.mp3"
   },
@@ -42,10 +46,6 @@ self.__precacheManifest = [
   {
     "revision": "a01fc345bc969d2b6b6db713c435d7a4",
     "url": "sounds/accept.mp3"
-  },
-  {
-    "revision": "03646bee38c099c146dd",
-    "url": "js/app.81cebfb3.js"
   },
   {
     "revision": "a82eb224d36c122712c83252258e135d",
@@ -68,40 +68,40 @@ self.__precacheManifest = [
     "url": "sounds/pendingTx.mp3"
   },
   {
-    "revision": "5e3792c527c5bbed79e881dac65f8c0f",
-    "url": "sounds/hat.mp3"
-  },
-  {
     "revision": "a542ee9ebb72e13c9e0ecb29043071ad",
     "url": "sounds/greeting.mp3"
   },
   {
-    "revision": "00ea97a8c54d5b992641d27e5c8df1cc",
-    "url": "safari-pinned-tab.svg"
+    "revision": "5e3792c527c5bbed79e881dac65f8c0f",
+    "url": "sounds/hat.mp3"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "robots.txt"
   },
   {
-    "revision": "81f395f7c24d1fccca8a",
-    "url": "js/chunk-vendors.abb6e60f.js"
+    "revision": "00ea97a8c54d5b992641d27e5c8df1cc",
+    "url": "safari-pinned-tab.svg"
+  },
+  {
+    "revision": "abb83e8c6d305c7cb360",
+    "url": "js/chunk-vendors.116ce7c7.js"
   },
   {
     "revision": "7ff06a38c3c03ebc7e87ec40eb363741",
     "url": "fonts/BerlinSansFBDemiBold.7ff06a38.woff"
   },
   {
-    "revision": "81f395f7c24d1fccca8a",
-    "url": "css/chunk-vendors.88bdeba2.css"
+    "revision": "6f0a76321d30f3c8120915e57f7bd77e",
+    "url": "fonts/element-icons.6f0a7632.ttf"
+  },
+  {
+    "revision": "833a222f440a0eaba9aed72dddb78be3",
+    "url": "index.html"
   },
   {
     "revision": "330a865b8625d35a314f37c2c775e6f3",
     "url": "img/rabbit-shadow.330a865b.png"
-  },
-  {
-    "revision": "2fad952a20fbbcfd1bf2ebb210dccf7a",
-    "url": "fonts/element-icons.2fad952a.woff"
   },
   {
     "revision": "0361497e2c5bebc9c9889e64fa8f4f18",
@@ -112,56 +112,60 @@ self.__precacheManifest = [
     "url": "img/bg_podium.cc4e512d.png"
   },
   {
-    "revision": "e87d6fc2242587f9d137b48f9cde191f",
-    "url": "fonts/Circe_Regular.e87d6fc2.woff"
-  },
-  {
-    "revision": "e5750578b5388eb6d4537afe742364e0",
-    "url": "fonts/Circe_Bold.e5750578.woff"
-  },
-  {
-    "revision": "80a9fd552740095605a8b7fa5873b6c1",
-    "url": "fonts/Circe_Regular.80a9fd55.woff2"
-  },
-  {
-    "revision": "c0b2c99a88238e29090b293516303651",
-    "url": "fonts/Circe_Bold.c0b2c99a.woff2"
-  },
-  {
-    "revision": "7251dc5ea4101d8c9cd2ec434294b465",
-    "url": "index.html"
-  },
-  {
-    "revision": "0138f85cb1b843bf08c13ec74fa136b0",
-    "url": "fonts/BerlinSansFBDemiBold.0138f85c.woff2"
-  },
-  {
-    "revision": "cc1b41b0e9485796cebb98fb04a7c10e",
-    "url": "img/es.cc1b41b0.svg"
-  },
-  {
-    "revision": "07ebeb5c6be5c8f85ba2bff84abda65d",
-    "url": "img/kp.07ebeb5c.svg"
-  },
-  {
-    "revision": "3e726c2b6a59e6e4543c0a1534d93796",
-    "url": "img/de.3e726c2b.svg"
+    "revision": "0cacf46e6f473fa88781120f370d6107",
+    "url": "img/ru.0cacf46e.svg"
   },
   {
     "revision": "02c229de4d98ea1668384d2ed4cc558d",
     "url": "img/cn.02c229de.svg"
   },
   {
-    "revision": "0cacf46e6f473fa88781120f370d6107",
-    "url": "img/ru.0cacf46e.svg"
-  },
-  {
     "revision": "4f1b7af5c0bae6aae85c3e7ba9401a85",
     "url": "img/gb.4f1b7af5.svg"
   },
   {
-    "revision": "03646bee38c099c146dd",
-    "url": "css/app.b17769b5.css"
+    "revision": "3e726c2b6a59e6e4543c0a1534d93796",
+    "url": "img/de.3e726c2b.svg"
+  },
+  {
+    "revision": "6d3d963fd85ce15d80cc7dd3ed6f0b52",
+    "url": "img/kr.6d3d963f.svg"
+  },
+  {
+    "revision": "95c2abfe2fa7c438741349c18ee3a976",
+    "url": "img/jp.95c2abfe.svg"
+  },
+  {
+    "revision": "cc1b41b0e9485796cebb98fb04a7c10e",
+    "url": "img/es.cc1b41b0.svg"
+  },
+  {
+    "revision": "e87d6fc2242587f9d137b48f9cde191f",
+    "url": "fonts/Circe_Regular.e87d6fc2.woff"
+  },
+  {
+    "revision": "80a9fd552740095605a8b7fa5873b6c1",
+    "url": "fonts/Circe_Regular.80a9fd55.woff2"
+  },
+  {
+    "revision": "e5750578b5388eb6d4537afe742364e0",
+    "url": "fonts/Circe_Bold.e5750578.woff"
+  },
+  {
+    "revision": "c0b2c99a88238e29090b293516303651",
+    "url": "fonts/Circe_Bold.c0b2c99a.woff2"
+  },
+  {
+    "revision": "0138f85cb1b843bf08c13ec74fa136b0",
+    "url": "fonts/BerlinSansFBDemiBold.0138f85c.woff2"
+  },
+  {
+    "revision": "abb83e8c6d305c7cb360",
+    "url": "css/chunk-vendors.bf99794c.css"
+  },
+  {
+    "revision": "053eefe72e53c683112a",
+    "url": "css/app.c590dcce.css"
   },
   {
     "revision": "ff2a18e22bb0ea08221a09c8708495c8",
