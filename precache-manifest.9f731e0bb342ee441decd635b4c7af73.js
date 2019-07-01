@@ -28,16 +28,12 @@ self.__precacheManifest = [
     "url": "sounds/offerToCancel.mp3"
   },
   {
-    "revision": "9d51eed2e5e254c9ec43e23763605d6c",
-    "url": "sounds/reject.mp3"
-  },
-  {
     "revision": "946850c9bf1665867e797bcca79aab99",
     "url": "sounds/dispute.mp3"
   },
   {
-    "revision": "d3245d61d6f97f6c24cd",
-    "url": "js/app.7b5d0ae8.js"
+    "revision": "9d51eed2e5e254c9ec43e23763605d6c",
+    "url": "sounds/reject.mp3"
   },
   {
     "revision": "f091117362567c1a18249b4a60496634",
@@ -46,6 +42,10 @@ self.__precacheManifest = [
   {
     "revision": "a01fc345bc969d2b6b6db713c435d7a4",
     "url": "sounds/accept.mp3"
+  },
+  {
+    "revision": "84d20678b1d6a3af1e0b",
+    "url": "js/app.66b2df77.js"
   },
   {
     "revision": "a82eb224d36c122712c83252258e135d",
@@ -88,15 +88,15 @@ self.__precacheManifest = [
     "url": "js/chunk-vendors.116ce7c7.js"
   },
   {
-    "revision": "0138f85cb1b843bf08c13ec74fa136b0",
-    "url": "fonts/BerlinSansFBDemiBold.0138f85c.woff2"
+    "revision": "7ff06a38c3c03ebc7e87ec40eb363741",
+    "url": "fonts/BerlinSansFBDemiBold.7ff06a38.woff"
   },
   {
     "revision": "6f0a76321d30f3c8120915e57f7bd77e",
     "url": "fonts/element-icons.6f0a7632.ttf"
   },
   {
-    "revision": "73c4fb78524e60561d034957befdae15",
+    "revision": "f20c7d7b35279378af2b9f9831105043",
     "url": "index.html"
   },
   {
@@ -116,20 +116,20 @@ self.__precacheManifest = [
     "url": "img/gb.4f1b7af5.svg"
   },
   {
-    "revision": "02c229de4d98ea1668384d2ed4cc558d",
-    "url": "img/cn.02c229de.svg"
-  },
-  {
     "revision": "0cacf46e6f473fa88781120f370d6107",
     "url": "img/ru.0cacf46e.svg"
   },
   {
-    "revision": "6d3d963fd85ce15d80cc7dd3ed6f0b52",
-    "url": "img/kr.6d3d963f.svg"
+    "revision": "02c229de4d98ea1668384d2ed4cc558d",
+    "url": "img/cn.02c229de.svg"
   },
   {
     "revision": "3e726c2b6a59e6e4543c0a1534d93796",
     "url": "img/de.3e726c2b.svg"
+  },
+  {
+    "revision": "6d3d963fd85ce15d80cc7dd3ed6f0b52",
+    "url": "img/kr.6d3d963f.svg"
   },
   {
     "revision": "95c2abfe2fa7c438741349c18ee3a976",
@@ -156,15 +156,15 @@ self.__precacheManifest = [
     "url": "fonts/Circe_Bold.c0b2c99a.woff2"
   },
   {
-    "revision": "7ff06a38c3c03ebc7e87ec40eb363741",
-    "url": "fonts/BerlinSansFBDemiBold.7ff06a38.woff"
+    "revision": "0138f85cb1b843bf08c13ec74fa136b0",
+    "url": "fonts/BerlinSansFBDemiBold.0138f85c.woff2"
   },
   {
     "revision": "abb83e8c6d305c7cb360",
     "url": "css/chunk-vendors.bf99794c.css"
   },
   {
-    "revision": "d3245d61d6f97f6c24cd",
+    "revision": "84d20678b1d6a3af1e0b",
     "url": "css/app.c590dcce.css"
   },
   {
